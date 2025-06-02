@@ -2,7 +2,7 @@
 With 4 years of experience delivering patient-focused solutions in the pharmacy industry, I recently made the career shift to software engineering. Over the last few years, I have been continuously learning and honing my software development skills before finally taking the leap to pursue a Master's in Software Engineering.<br><br>As someone passionate about technology with a knack for thinking creatively to solve problems and a detail-oriented mindset, I view software development like assembling Lego pieces – building solutions piece by piece.<br><br>My background in pharmacy allows me to approach development with a customer-centric lens and develop innovative applications that can positively impact people's lives. I am excited to combine my healthcare expertise with my new software engineering skills to collaborate on meaningful projects.
 
 ## 💪 Continuous Learning:
-I am currently expanding my skills by learning Kotlin, Flutter and React Three Fiber.
+I am currently expanding my skills by learning Flutter and Unity.
 
 
 
